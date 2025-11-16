@@ -9,12 +9,12 @@ My goal is to build digital products that are scalable, reliable, and delightful
 ## 🏆 My Achievements & Activity
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hussainahmadbilal&theme=radical&no-frame=true&rank=-&title=Projects,Stars,Commits,Followers,Issues,PullRequest,Reviews&row=2&column=4&margin-w=10&margin-h=10&layout=compact&no-bg=true" 
+  <img src="https://github-profile-trophy.vercel.app/?username=hussainahmad2&theme=radical&no-frame=true&rank=-&title=Projects,Stars,Commits,Followers,Issues,PullRequest,Reviews&row=2&column=4&margin-w=10&margin-h=10&layout=compact&no-bg=true" 
        alt="GitHub Trophies" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hussainahmadbilal&theme=dark&hide_border=true&card_width=490&background=00000000&border=00000000&stroke=888888&ring=DD2727&fire=DD2727&currStreakNum=150&totalContributions=1800&sideNums=DD2727&sideLabels=AAAAAA&currStreakLabel=Current%20Streak" 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hussainahmad2&theme=dark&hide_border=true&card_width=490&background=00000000&border=00000000&stroke=888888&ring=DD2727&fire=DD2727&currStreakNum=150&totalContributions=1800&sideNums=DD2727&sideLabels=AAAAAA&currStreakLabel=Current%20Streak" 
        alt="GitHub Streak" />
 </p>
 
@@ -23,10 +23,10 @@ My goal is to build digital products that are scalable, reliable, and delightful
 ## 📊 Core GitHub Data
 
 <p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=hussainahmadbilal&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_title=true&layout=compact&custom_title=My%20Contribution%20Overview&text_color=ffffff&icon_color=0e76a8&bg_color=1f222e&show=prs,issues,contribs" 
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=hussainahmad2&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_title=true&layout=compact&custom_title=My%20Contribution%20Overview&text_color=ffffff&icon_color=0e76a8&bg_color=1f222e&show=prs,issues,contribs" 
        alt="Muhammad's GitHub Stats" />
   
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hussainahmadbilal&layout=compact&theme=dark&hide_title=true&langs_count=5&custom_title=Top%20Languages%20&text_color=ffffff&icon_color=0e76a8&bg_color=1f222e&hide=html,css,shell,markdown" 
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hussainahmad2&layout=compact&theme=dark&hide_title=true&langs_count=5&custom_title=Top%20Languages%20&text_color=ffffff&icon_color=0e76a8&bg_color=1f222e&hide=html,css,shell,markdown" 
        alt="Top Languages" />
 </p>
 
