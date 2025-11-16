@@ -1,33 +1,54 @@
-# Hi there 👋, I'm Muhammad Hussain Ahmad Bilal
+# 🚀 Hello there! I'm Muhammad Hussain Ahmad Bilal 👋
 
-I'm a **full-stack developer** from Pakistan, passionate about building high-performance **web and mobile applications** with clean code, intuitive UI, and data-driven solutions.
+I'm a **Full-Stack Developer** from Pakistan 🇵🇰, specializing in crafting **high-performance web and mobile applications** that are driven by clean code, intuitive UI/UX, and data-driven solutions.
 
-🌱 Always learning and exploring new technologies to improve my craft.  
-
----
-
-## 📊 GitHub Stats
-
-[![Muhammad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hussainahmadbilal&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/hussainahmadbilal)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hussainahmadbilal&layout=compact&theme=dark)](https://github.com/hussainahmadbilal)
+My goal is to build digital products that are scalable, reliable, and delightful to use.
 
 ---
 
-## 🛠️ Tech Stack
+## 🏆 My Achievements & Activity
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <a href="https://github.com/hussainahmadbilal">
+    <img src="https://github-profile-trophy.vercel.app/?username=hussainahmadbilal&theme=radical&no-frame=true&rank=-" alt="GitHub Trophies" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hussainahmadbilal&theme=dark&hide_border=true&card_width=490" alt="GitHub Streak" />
 </p>
 
 ---
 
-## 📫 Connect with Me
+## 📊 Core GitHub Data
+
+<p align="center">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=hussainahmadbilal&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_title=true&layout=compact" alt="Muhammad's GitHub Stats" />
+  
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hussainahmadbilal&layout=compact&theme=dark&hide_title=true" alt="Top Languages" />
+</p>
+
+<br clear="both"/> 
+
+---
+
+## 🛠️ Tech Stack & Expertise
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>
+<p align="center">
+  🌱 Always learning and exploring new technologies to improve my craft.
+</p>
+
+---
+
+## 📧 Let's Connect!
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hussainahmadbilal/" target="_blank">
@@ -46,5 +67,5 @@ I'm a **full-stack developer** from Pakistan, passionate about building high-per
 
 ---
 
-### ⚡ Fun Fact
-I love exploring **data visualization**, building **interactive dashboards**, and crafting **user-friendly applications** that make an impact.
+### 💡 Fun Fact
+I love exploring **data visualization**, building **interactive dashboards**, and crafting **user-friendly applications** that truly make an impact.
