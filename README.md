@@ -1,4 +1,4 @@
-# 🚀 Hello there! I'm Muhammad Hussain Ahmad Bilal 👋
+# 🚀 Hello there! I'm Hussain Ahmad Bilal 👋
 
 I'm a **Full-Stack Developer** from Pakistan 🇵🇰, specializing in crafting **high-performance web and mobile applications** that are driven by clean code, intuitive UI/UX, and data-driven solutions.
 
