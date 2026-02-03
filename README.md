@@ -1,4 +1,4 @@
-# 🚀 Hey there! I'M
+# 🚀 Hey there! I'm
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=transparent&height=140&color=0:0D1117,100:1F6FEB&text=Hussain%20Ahmad%20Bilal&fontColor=C9D1D9&fontSize=46&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20Pakistan%20%F0%9F%87%B5%F0%9F%87%B0&descAlignY=68&descSize=16" alt="Hussain Ahmad Bilal banner"/>
 </p>
